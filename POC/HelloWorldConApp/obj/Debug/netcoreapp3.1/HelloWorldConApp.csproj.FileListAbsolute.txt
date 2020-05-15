@@ -1,0 +1,13 @@
+D:\HTC\POC\HelloWorldConApp\bin\Debug\netcoreapp3.1\HelloWorldConApp.exe
+D:\HTC\POC\HelloWorldConApp\bin\Debug\netcoreapp3.1\HelloWorldConApp.deps.json
+D:\HTC\POC\HelloWorldConApp\bin\Debug\netcoreapp3.1\HelloWorldConApp.runtimeconfig.json
+D:\HTC\POC\HelloWorldConApp\bin\Debug\netcoreapp3.1\HelloWorldConApp.runtimeconfig.dev.json
+D:\HTC\POC\HelloWorldConApp\bin\Debug\netcoreapp3.1\HelloWorldConApp.dll
+D:\HTC\POC\HelloWorldConApp\bin\Debug\netcoreapp3.1\HelloWorldConApp.pdb
+D:\HTC\POC\HelloWorldConApp\obj\Debug\netcoreapp3.1\HelloWorldConApp.csprojAssemblyReference.cache
+D:\HTC\POC\HelloWorldConApp\obj\Debug\netcoreapp3.1\HelloWorldConApp.csproj.CoreCompileInputs.cache
+D:\HTC\POC\HelloWorldConApp\obj\Debug\netcoreapp3.1\HelloWorldConApp.AssemblyInfoInputs.cache
+D:\HTC\POC\HelloWorldConApp\obj\Debug\netcoreapp3.1\HelloWorldConApp.AssemblyInfo.cs
+D:\HTC\POC\HelloWorldConApp\obj\Debug\netcoreapp3.1\HelloWorldConApp.dll
+D:\HTC\POC\HelloWorldConApp\obj\Debug\netcoreapp3.1\HelloWorldConApp.pdb
+D:\HTC\POC\HelloWorldConApp\obj\Debug\netcoreapp3.1\HelloWorldConApp.genruntimeconfig.cache
